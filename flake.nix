@@ -14,7 +14,7 @@
         pname = "akeyless-openapi-spec-extractor";
         version = "0.0.0-dev";
         src = self;
-        npmDepsHash = "sha256-VSFu7jZapXDzkPP2HKdin1XgvCXepRvxervzrJkTf34="; # TODO: set correct hash
+        npmDepsHash = "sha256-VSFu7jZapXDzkPP2HKdin1XgvCXepRvxervzrJkTf34=";
         dontNpmBuild = true;
         meta = {
           description = "CLI tool for extracting single endpoints from OpenAPI specs with all endpoint details";
